@@ -10,12 +10,12 @@
 	> Senha: 123456
 
 3. Acesse o diretorio *posnet* do PDV:
-    > Faça o upload do arquivo `compare` que fica dentro do diretório [*FHS80H*](pdv/biometria/leitor_fs80h), para o diretório *posnet* do PDV.
+    > Faça o upload do arquivo `compare` que fica dentro do diretório [*FHS80H*](https://github.com/cpglaucio/help/tree/main/pdv/biometria/leitor_fs80h/fhs80h), para o diretório *posnet* do PDV.
     >
-    > Faça o upload de todos os arquivos do diretório *devices*, para o diretório *devices* do PDV.
+    > Faça o upload de todos os arquivos do diretório [*devices*](https://github.com/cpglaucio/help/tree/main/pdv/biometria/leitor_fs80h/devices), para o diretório *devices* do PDV.
 
 4. Acesse o diretótio *usr/local/lib* do PDV:
-    > Faça o upload de todos os arquivos do diretório *lib*, para o diretório *lib* do PDV.
+    > Faça o upload de todos os arquivos do diretório [*lib*](https://github.com/cpglaucio/help/tree/main/pdv/biometria/leitor_fs80h/lib), para o diretório *lib* do PDV.
 
 ## Configuração pelo terminal
 
