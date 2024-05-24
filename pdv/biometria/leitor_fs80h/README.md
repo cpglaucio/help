@@ -10,7 +10,7 @@
 	> Senha: 123456
 
 3. Acesse o diretorio *posnet* do PDV:
-    > Faça o upload do arquivo `compare` que fica dentro do diretório *FHS80H*, para o diretório *posnet* do PDV.
+    > Faça o upload do arquivo `compare` que fica dentro do diretório [*FHS80H*](pdv/biometria/leitor_fs80h), para o diretório *posnet* do PDV.
     >
     > Faça o upload de todos os arquivos do diretório *devices*, para o diretório *devices* do PDV.
 
