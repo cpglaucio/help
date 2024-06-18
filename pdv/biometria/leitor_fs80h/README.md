@@ -17,7 +17,18 @@
 4. Acesse o diretótio *usr/local/lib* do PDV:
     > Faça o upload de todos os arquivos do diretório [*lib*](https://github.com/cpglaucio/help/tree/main/pdv/biometria/leitor_fs80h/lib), para o diretório *lib* do PDV.
 
-## Configuração pelo terminal
+## Configurando as permissões pelo WinSCP
+
+1. No diretório *posnet* do PDV, procure o arquivo `compare` e selecione ele, clique com o botão direto do mouse e depois em *propriedades* ou aperte a tecla *F9*.
+
+2. Altere os campos:
+    >Grupo: 1000 [1000]
+    >
+    >Proprietario: 1000[1000]
+    >
+    >Octal: 0777
+
+## Configurando as permissões pelo terminal
 
 Abra o PUTTY, digite os seguintes comandos:
 ```bash
@@ -30,4 +41,6 @@ Abra o PUTTY, digite os seguintes comandos:
     reboot
 ```
 
-Valide com os gerentes e faça todos os teste de uso da biometria na loja.
+---
+
+**VALIDE COM OS GERENTES E FAÇA TODOS OS TESTES DE USO DA BIOMETRIA NA LOJA.**
