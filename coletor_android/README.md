@@ -50,14 +50,11 @@
 
 ## Testando o coletor
 1. Abre o app Velocity, clique no host PRDTELNET:
-	> Usuário: 000184
-	> 
-	> Senha: 2820
-	> 
-	> Recurso: Digite de 1 a 30, até achar um disponível
-	> 
-	> Principal → Opção: 3 - Consulta 
-	> 
-	> Consulta → Opção 3 - Produto
+		
+		Usuário: 000184
+		Senha: 2820
+		Recurso: Digite de 1 a 30, até achar um disponível
+		Principal → Opção: 3 - Consulta 
+		Consulta → Opção 3 - Produto
 ---
 2. Teste lendo o código de barras.
