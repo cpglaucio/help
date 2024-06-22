@@ -6,50 +6,61 @@ Durate a carregamento do boot, clique na tela *F8* ou *DEL*, para entrar na tela
 1. Após o boot ser iniciado aperte o *ENTER*.
 
 2. Selecione a segunda opção:
-	> Instalação PdvArius-uefi
+
+		Instalação PdvArius-uefi
 
 3. Selecione um disco para a instalação:
-	> 1: /dev/sda
+		
+		1: /dev/sda
 
 4. Selecione uma interface de rede:
-	> 1: eno1
+	 
+		1: eno1
 
 5. Informe o endereço IP:
-	> Coloque o IP da máquina.
+
+		Coloque o IP da máquina.
 
 6. Em informe a mascara de rede:
-	> Não preencher
+	
+		Não preencher
 
 7. Informe o endereço de gateway:
-	> Coloque o gateway da loja
+	
+		Coloque o gateway da loja
 
 8. Informe o DNS:
-	> 172.16.254.254, 172.16.253.254
+
+		172.16.254.254, 172.16.253.254
 
 9. Informe o hostname:
-	> CP_LOJA_NUMEROdoCAIXA
+	
+	 	CP_LOJA_NUMEROdoCAIXA
 
 10. Informe o código da loja: 
-	> Número da loja na Arius
+		
+		Número da loja na Arius
 
 11. Informe o código do PDV:
-	> Série do PDV na Arius
+	 
+		Série do PDV na Arius
 
 12. Informe o IP do servidor dos PDVs:
-	> 10.254.1.240
+	
+		10.254.1.240
 
 13. Modelo do SAT a ser instalado:
-	> 8 - Sweda
+	
+		8 - Sweda
 
 
 ## Configuração pelo WinSCP
 
 1. Abra o WinSCP instalado na máquina de quem está configurando o PDV:
-	> Coloque o IP do PDV.
-	>
-	> Usuário: root
-	>
-	> Senha: 123456
+		
+		Coloque o IP do PDV.
+		Usuário: root
+		Senha: 123456
 
 2. Procure o arquivo `pdvnovo.sh` e cole na raiz (/root) do PDV.
 
@@ -57,7 +68,6 @@ Durate a carregamento do boot, clique na tela *F8* ou *DEL*, para entrar na tela
 
 4. Procure o arquivo `grub` e cole em `/etc/default`.
 
-	
 ## Configuração pelo Putty
 
 Abra o PUTTY, digite os seguintes comandos:
