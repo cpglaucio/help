@@ -1,11 +1,6 @@
 # CRIANDO PROMOÇÃO PELO CONCENTRADOR
 
-1. Abra o WinSCP instalado na máquina de quem está configurando o PDV:
-		
-		IP: 10.254.1.240
-		Usuário: root
-		Senha: 123456
-
+1. Abra o [concentrador da Arius](http://10.254.1.240/index.php) com suas credências de acesso. 
 
 2. Na sessão `Configurações`, clique em `Promoções Grupo` e verifique se o grupo da promoção já existe, **caso não tenha o grupo**, crie um novo grupo para essa nova promoção.
 
