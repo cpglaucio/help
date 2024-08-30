@@ -8,7 +8,7 @@ Após a instalação do pacote Office 365, abra o programa do Outlook na máquin
 
 3. Na aba `Assinaturas de Email`, crie uma nova assinatura com nome e deixa conteúdo em branco.
 
-4. Na mesma janela, em `Escolha a assinatura padrão`, selecione a assinatura nova criada em `Novas mensagens` e `Respostas/encaminhamentos`
+4. Na mesma janela, em `Escolha a assinatura padrão`, selecione a assinatura nova criada em `Novas mensagens` e também em `Respostas/encaminhamentos`, após clique em `Ok`.
 
 5. Abre `executar (Win + R)` e coloque o comando:
 
