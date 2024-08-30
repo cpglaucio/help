@@ -10,7 +10,7 @@ Após a instalação do pacote Office 365, abra o programa do Outlook na máquin
 
 4. Na mesma janela, em `Escolha a assinatura padrão`, selecione a assinatura nova criada em `Novas mensagens` e também em `Respostas/encaminhamentos`, após clique em `Ok`.
 
-5. Abra `executar (Win + R)` e coloque o comando:
+5. Abra o `executar (Win + R)` e coloque o seguinte comando:
 
 ```powershell
     %appdata%\Microsoft\Signatures
