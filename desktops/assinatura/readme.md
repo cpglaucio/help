@@ -10,12 +10,12 @@ Após a instalação do pacote Office 365, abra o programa do Outlook na máquin
 
 4. Na mesma janela, em `Escolha a assinatura padrão`, selecione a assinatura nova criada em `Novas mensagens` e também em `Respostas/encaminhamentos`, após clique em `Ok`.
 
-5. Abre `executar (Win + R)` e coloque o comando:
+5. Abra `executar (Win + R)` e coloque o comando:
 
 ```powershell
     %appdata%\Microsoft\Signatures
 ```
 
-6. Nessa pasta edite o arquivo HTML da assinatura criada no outlook, siga o modelo de exemplo **[assinatura](./assinatura.html)**.
+6. Nessa pasta edite o arquivo HTML da assinatura criada no outlook, siga esse modelo de assinatura, **[clique aqui](./assinatura.html)**.
 
-7. Finalizado todo o processo, abre o `Outlook` e crie um novo email e verifique se a assinatura está correta.
+7. Finalizado todo o processo, abra o `Outlook` e crie um novo email e verifique se a assinatura está correta.
