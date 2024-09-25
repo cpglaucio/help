@@ -12,9 +12,9 @@ Após a instalação do pacote Office 365, abra o programa do Outlook na máquin
 
 5. Abra o `executar (Win + R)` e coloque o seguinte comando:
 
-```powershell
-    %appdata%\Microsoft\Signatures
-```
+    ```powershell
+        %appdata%\Microsoft\Signatures
+    ```
 
 6. Nessa pasta edite o arquivo HTML da assinatura criada no outlook, siga esse modelo de assinatura, **[clique aqui](./assinatura.html)**.
 
