@@ -6,22 +6,22 @@ Guia de configuração inicial da máquina da gerência após instalado o sistem
 
 2. Ir nas `Configurações` acessar `Windows Update` e instalar todas as atualizações pendentes.
 
-3. Desativar o `Firewall`.
+3. Ir no `Gerenciamento do Computador (compmgmt.msc)` e desabilitar o usuário criado, e habilitar o perfil `Administrador`, marcar `senha nunca expira` e trocar a senha para `@BLADE2014`.
 
-4. Ir no `Gerenciamento do Computador (compmgmt.msc)` e desabilitar o usuário criado, e habilitar o perfil `Administrador`, marcar `senha nunca expira` e trocar a senha para `@BLADE2014`.
+4. Trocar fundo de tela.
 
-5. Trocar fundo de tela.
-
-6. Ir nas `Propriedades do sistema (sysdm.cpl)` e trocar o nome do computador com os seguintes critérios:
+5. Ir nas `Propriedades do sistema (sysdm.cpl)` e trocar o nome do computador com os seguintes critérios:
 
         CPLJXXYY
 
         XX → Número da loja
         YYY → GER / EST / AUX
 
-7. Colocar no domínio `casaspedro.local`.
+6. Colocar no domínio `casaspedro.local`.
 
-8. Reinicie o computador.
+7. Reinicie o computador.
+
+8. Desativar o `Firewall`.
 
 ## Programas essenciais - Gerência
 	
@@ -30,12 +30,16 @@ Guia de configuração inicial da máquina da gerência após instalado o sistem
 - Google Chrome
 
 - UltraVNC
+  - Selecionar "Ultra VNC Server"
+  - Selecionar "Register Utra VNC Server"
 
 - AnyDesk
 
 - Protheus
 
 - Balanças
+  - Prix
+  - UPX
 
 - Impressora
 
@@ -46,6 +50,8 @@ Guia de configuração inicial da máquina da gerência após instalado o sistem
 - Google Chrome
 
 - UltraVNC
+  - Selecionar "Ultra VNC Server"
+  - Selecionar "Register Utra VNC Server"
 
 - AnyDesk
 
@@ -60,6 +66,8 @@ Guia de configuração inicial da máquina da gerência após instalado o sistem
 - Google Chrome
 
 - UltraVNC
+  - Selecionar "Ultra VNC Server"
+  - Selecionar "Register Utra VNC Server"
 
 - AnyDesk
 
