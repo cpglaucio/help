@@ -3,7 +3,6 @@
 1. Sempre conectar o leitor USB na parte de trás do PDV.
 
 2. Abra o WinSCP instalado na máquina de quem está configurando o PDV:
-<<<<<<< HEAD
 	
         Host: IP do PDV.
 	    
