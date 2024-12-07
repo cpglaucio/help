@@ -43,8 +43,12 @@ Durante a carregamento do boot, clique na tela F8 ou DEL, para entrar na tela de
 10. Após clicar em *OK*, a máquina irá reiniciar.
 
 > *Caso esteja formatando o PDV no escritório, coloque os dados de rede do escritório.*
+> 
+>		IP → 10.1.10.11
+>		Gateway → 10.1.10.1
+>		DNS é o mesmo!
 >
-> *Após finalizar as configurações, **troque os dados de rede do escritório para os dados de rede da loja que irá receber o PDV formatado!!***
+> ### *Após finalizar as configurações, **troque os dados de rede do escritório para os dados de rede da loja que irá receber o PDV formatado!!***
 
 
 ## Configuração pelo WinSCP
@@ -81,7 +85,7 @@ Abra o PUTTY, digite os seguintes comandos:
 
 ### Configurando pelo modo gráfico
 
-1. Abra o WinSCP (no server 3407 se possível) ou instalado na máquina de quem está configurando o PDV.
+1. Abra o WinSCP instalado na máquina de quem está configurando o PDV.
 	
 		Coloque a faixa de IP do escritório.
 	

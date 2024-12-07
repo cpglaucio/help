@@ -1,27 +1,27 @@
 # GUIA DE FORMATAÇÃO DO PDV MODELO SP-30 S
 
 Com o pen-drive de boot conectado na máquina ligue o PC.
-Durate a carregamento do boot, clique na tela *F8* ou *DEL*, para entrar na tela de boot menu, selecione o pen-drive de boot.
+Durante a carregamento do boot, clique na tela *F8* ou *DEL*, para entrar na tela de boot menu, selecione o pen-drive de boot.
 
-1. Após o boot ser iniciado aperte o *ENTER*.
+## Após o boot ser iniciado aperte o *ENTER*.
 
-2. Selecione a segunda opção:
+1. Selecione a segunda opção:
 
 		Instalação PdvArius-uefi
 
-3. Selecione um disco para a instalação:
+2. Selecione um disco para a instalação:
 		
 		1: /dev/sda
 
-4. Selecione uma interface de rede:
+3. Selecione uma interface de rede:
 	 
 		1: eno1
 
-5. Informe o endereço IP:
+4. Informe o endereço IP:
 
 		Coloque o IP da máquina.
 
-6. Em informe a mascara de rede:
+5. Em informe a mascara de rede:
 	
 		Não preencher
 
